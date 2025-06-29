@@ -2,9 +2,9 @@
 
 # copy the code link from git repo
 
-# download the code/file on ubuntu using, "git clone <code link>" command
+# download the code/file on ubuntu using, "git clone [code link]" command
 
-# open the code directory, run it as "sudo python3 <file>"
+# open the code directory, run it as "sudo python3 [downloaded file]"
 
 # Go to this youtube link for installation video 
 
