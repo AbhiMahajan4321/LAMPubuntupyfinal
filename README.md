@@ -8,4 +8,4 @@
 
 # Go to this youtube link for installation video 
 
-# pending
+# https://youtu.be/Rde4iyKf0hk
